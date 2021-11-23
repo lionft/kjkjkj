@@ -1,0 +1,25 @@
+{
+  "CONTRACT_ADDRESS": "0xB8F89227f4eD9E180ad9F603862e0E9845AD6830",
+  "OWNER_ADDRESS": "0xDB64492BF6869BC141F9033E25F757BB3A83ccDd",
+  "SCAN_LINK": "https://etherscan.io/address/0xB8F89227f4eD9E180ad9F603862e0E9845AD6830",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Nerdy Coder Clones",
+  "SYMBOL": "NCC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 500000000000000,
+  "COST1": 600000000000000,
+  "COST2": 700000000000000,
+
+  "COST3": 800000000000000,
+  "COST0": 0,
+
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
